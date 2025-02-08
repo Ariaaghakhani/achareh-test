@@ -1,0 +1,25 @@
+M.sokandan === 123 === مدیریت امور مشتریان و وصول مطالبات-مدیریت
+
+M.yari === 123 === کارشناس پذیرش لیزینگ-کارشناس
+B.radfar === 123 === ریاست حسابداری ===>api contract for cartable ++checkAmountOfLateFees
+
+
+H.Zhole === 123 === معاونت اجرایی لیزینگ-معاونت ===> api contract for cartable
+S.hajaghasi === 123 === مدیریت مالی-مدیریت  ===> api contract for cartable
+M.habibi ===123 === مشاور حقوقی-مشاور
+
+M.rezayi ===123 ===معاونت مالی و اقتصادی-معاونت 
+
+
+S.beshagh ===123 === کارشناس مالی-کارشناس ===> api contract for cartableS.
+S.mohseni ===123 === مدیریت برنامه ریزی، توسعه سیستم ها و روش ها-مدیریت
+
+
+
+
+mohammad ===123 === عضو هیت 
+
+
+0025346563
+09109204298
+123
